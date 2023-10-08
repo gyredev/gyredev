@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gyredev
-- 👀 I’m interested in coding, web app dev, python and node fullstack, 3d printing
-- 🌱 I’m currently learning node/python
+- 👀 I’m interested in coding, web app dev fullstack, 3d printing
+- 🌱 I’m currently learning OOP PHP, react and PYTHON
 - 💞️ I’m looking to collaborate on any projects i find interesting!...
 - 📫 How to reach me ...  gyredev@yahoo.com
 
